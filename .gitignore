@@ -1,0 +1,5 @@
+# Ignore everything in PictureLoop
+PictureLoop/*
+
+# But don't ignore image_0.png
+!PictureLoop/image_0.png
